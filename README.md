@@ -1,9 +1,9 @@
 ```
-              .     *       *
-          *      .   .        .       *
-     *         ☆       .        .    *
-           *        🌙        *        .
-      .      *   ✦   .     .   *    ☆
+              .     *       *       *   ✦   .     .   *    ☆
+          *      .   .        .       *   *         ☆       .        .  
+     *         ☆       .        .    *    *      .   .        .   
+           *        🌙        *        .        *   ✦   .     .   *    ☆
+      .      *   ✦   .     .   *    ☆    *   ✦   .     .   *    ☆
 
 ```
 
@@ -28,17 +28,17 @@ I'm an aspiring game developer at the University of Michigan (Class of 2027), st
 - **Languages:** C++, Python, Java
 - **Creative:** Art (digital/traditional), music (composition & production), writing
 - **Game Design:** Writing, Creative Thinking, Game Logic
-- **Tech:** Git, GitHub, Unity, VSCode
+- **Tech:** Git, GitHub, Unity, VSCode, GameMaker Studio
 - **Collaborative:** Clear Communication, Leadership and Directorial Experience
 
-## 🌠 Talk games to me!
+## 🌠 
 - Don't be afraid to message me!! I love collaborating with others on projects as well as just talking about my interests! Looking for future game jams~
 
 ```
-              *         .       ☆
-          .        *      .    🌠
-     ☆     .    ✦      *     .     *
-          .    *   .       *    ☆
+              *         .       ☆  *         .       ☆       .    ✦      *     .     *
+          .  ☆     .    ✦      *     .     *  🌠      *     .     *    .    *   .       *    ☆
+     ☆     .    ✦      *     .     *  ☆     .    ✦      *     .     *     .    ✦      *     .     
+          .    *   .       *    ☆    .       ☆  *         .       ☆       .      .    ✦      * 
 ```
 
 ---
