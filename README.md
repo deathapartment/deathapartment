@@ -8,7 +8,7 @@ I'm an aspiring game developer at the University of Michigan (Class of 2027), st
 - 🎮 Gamer; Baldur's Gate 3, Minecraft, Red Dead Redemption 2, and many more...
 - 🎨 Digital & Traditional Artist
 - 🎹 Singer, Guitarist, Opinionated Spotify User
-- 📚 Avid Reader!
+- 📚 Avid Reader! R F Kuang, Samantha Shannon, and the Fantasy genre
 - 🎭 Actor, Playwright, Director
 
 ## ✨ Work in Progress...
