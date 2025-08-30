@@ -1,5 +1,5 @@
 
-# Hello there. I'm Lia! <3
+# Hello world. I'm Lia! <3
 
 I'm an aspiring game developer at the University of Michigan (Class of 2027), studying Computer Science through the College of Literature, Science, and the Arts, and Drama at the Residential College. Intrepid Explorer of new storytelling mediums!
 
